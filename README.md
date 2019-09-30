@@ -11,3 +11,7 @@
 [4. BlueOcean Plugin for Pipeline management](4.%20BlueOcean%20Pipeline%20Plugin)
 
 [5. Full Stack Project Management](5.%20Full%20Stack%20using%20Nexus%20Git%20Java%20Maven%20Jenkins)
+
+[6. SonarQube Analysis](6.%20SonarQube%20Analysis)
+
+[7. XAMPP](7.%20XAMPP/src)
