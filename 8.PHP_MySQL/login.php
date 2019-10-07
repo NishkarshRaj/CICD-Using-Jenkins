@@ -4,10 +4,17 @@ $n=$_POST["name"];
 $con=mysqli_connect("localhost","root","","devops1");
 $sql="select sapid,name from register";
 $res=mysqli_query($con,$sql);
-$row=mysqli_fetch_array($res);
+$p=0;
+while($row=mysqli_fetch_array($res))
+{
 if(($row["name"]==$n)&&($row["sapid"]==$i))
 {
-echo "Successful Login";
+$p=1;
+}
+}
+if($p==1)
+{
+echo "Login Successful";
 }
 else
 {
