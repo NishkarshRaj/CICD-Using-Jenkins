@@ -18,6 +18,8 @@
 
 [8. PHP MySQL Connection on XAMPP Server](8.%20PHP_MySQL)
 
+[9. Sessions in PHP](9.%20Sessions%20in%20PHP)
+
 # How to Collaborate:
 
 1. Fork the repository to your own GitHub account.
