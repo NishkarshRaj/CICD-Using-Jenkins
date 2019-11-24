@@ -16,7 +16,7 @@
 
 [7. XAMPP](7.%20XAMPP/src)
 
-[8. PHP MySQL Connection on XAMPP Server](8.PHP_MySQL/)
+[8. PHP MySQL Connection on XAMPP Server](8.%20PHP_MySQL)
 
 # How to Collaborate:
 
