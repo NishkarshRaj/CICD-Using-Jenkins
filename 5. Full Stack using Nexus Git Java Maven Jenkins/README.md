@@ -8,3 +8,8 @@ Build Tool:             Apache Maven
 CI and CD:              Jenkins
 Artifact Repository:    Nexus
 ```
+
+## Start Nexus - In bin folder
+```
+$ nexus.exe /run
+```
